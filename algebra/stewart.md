@@ -1,4 +1,5 @@
-## Algebra Review
+Review from [**Calculus: Early Transcendentals**](https://smile.amazon.com/dp/0495011665) by James Stewart.
+
 
 #### Exponent Rules
 
